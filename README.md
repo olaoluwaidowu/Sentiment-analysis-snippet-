@@ -1,3 +1,3 @@
 # Sentiment Analysis
 
-> This is code snippet of sentiment analysis
+> This is a code snippet of sentiment analysis
